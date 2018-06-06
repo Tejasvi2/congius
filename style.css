@@ -1,0 +1,75 @@
+.myimg
+{
+	
+	position:relative;
+      height: 600px;
+   
+        opacity:2;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	
+
+}
+.my-nav
+{
+	z-index:999;
+	position:absolute;
+	top:10px;
+
+}
+.my-carsouel
+{
+	position: absolute;
+	top:0;
+}
+.mytxt
+{
+	font-size:44px;
+	color: #fff;
+
+}
+.mytxt2
+{
+	font-size:24px;
+	color:#1976d2;
+
+}
+.navbar-default {
+    background-color: transparent;
+}
+div {
+    display: block;
+}
+.myimg-2
+{
+		background: url('img/two.jpg');
+		    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.myimg-3
+{
+		background: url('img/three.jpg');
+		    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.myimg3:hover
+{
+
+}
+
+
